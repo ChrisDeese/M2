@@ -8,7 +8,7 @@ import java.util.ArrayList;
  *  returns their name and a
  *  modified string
  *
- * @author Bob
+ * @author Prit Patel
  * @version 1.1
  */
 public class Person2 {
