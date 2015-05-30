@@ -1,5 +1,6 @@
-defaultTasks 'build'
 apply plugin: 'java'
+
+defaultTasks 'build'
 version = '1.0'
 
 jar {
